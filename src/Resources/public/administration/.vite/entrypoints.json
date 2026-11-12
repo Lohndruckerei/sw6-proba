@@ -1,0 +1,31 @@
+{
+  "base": "/bundles/ldproba/administration/",
+  "entryPoints": {
+    "ld-proba": {
+      "css": [
+        "/bundles/ldproba/administration/assets/ld-proba-CUsnsUgb.css"
+      ],
+      "dynamic": [
+        "/bundles/ldproba/administration/assets/index-BVoL8Tbg.js",
+        "/bundles/ldproba/administration/assets/index-BWz27qr-.js",
+        "/bundles/ldproba/administration/assets/index-CtfJN7lu.js",
+        "/bundles/ldproba/administration/assets/index-qKsixdgV.js",
+        "/bundles/ldproba/administration/assets/index-C5L-ohF6.js"
+      ],
+      "js": [
+        "/bundles/ldproba/administration/assets/ld-proba-hE4qC3CW.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}

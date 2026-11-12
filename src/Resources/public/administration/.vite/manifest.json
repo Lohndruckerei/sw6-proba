@@ -1,0 +1,60 @@
+{
+  "ld-admin-design/component/chip/index.js": {
+    "file": "assets/index-CtfJN7lu.js",
+    "name": "index",
+    "src": "ld-admin-design/component/chip/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.js"
+    ]
+  },
+  "ld-admin-design/component/design-switch/index.js": {
+    "file": "assets/index-BVoL8Tbg.js",
+    "name": "index",
+    "src": "ld-admin-design/component/design-switch/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.js"
+    ]
+  },
+  "ld-admin-design/component/status/index.js": {
+    "file": "assets/index-BWz27qr-.js",
+    "name": "index",
+    "src": "ld-admin-design/component/status/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.js"
+    ]
+  },
+  "ld-admin-design/component/tabs/index.js": {
+    "file": "assets/index-C5L-ohF6.js",
+    "name": "index",
+    "src": "ld-admin-design/component/tabs/index.js",
+    "isDynamicEntry": true
+  },
+  "ld-admin-design/component/transport-chip/index.js": {
+    "file": "assets/index-qKsixdgV.js",
+    "name": "index",
+    "src": "ld-admin-design/component/transport-chip/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "main.js"
+    ]
+  },
+  "main.js": {
+    "file": "assets/ld-proba-hE4qC3CW.js",
+    "name": "ld-proba",
+    "src": "main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "ld-admin-design/component/design-switch/index.js",
+      "ld-admin-design/component/status/index.js",
+      "ld-admin-design/component/chip/index.js",
+      "ld-admin-design/component/transport-chip/index.js",
+      "ld-admin-design/component/tabs/index.js"
+    ],
+    "css": [
+      "assets/ld-proba-CUsnsUgb.css"
+    ]
+  }
+}

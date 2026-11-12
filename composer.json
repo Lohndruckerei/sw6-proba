@@ -1,0 +1,36 @@
+{
+    "name": "lohndruckerei/ld-proba",
+    "description": "Proba – Druckdaten-Upload, automatische Prüfung (Preflight), Korrekturabzug und Kundenfreigabe. (in Entwicklung)",
+    "type": "shopware-platform-plugin",
+    "version": "0.1.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Lohndruckerei"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "shopware/core": "~6.7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lohndruckerei\\Proba\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "Lohndruckerei\\Proba\\LdProba",
+        "label": {
+            "de-DE": "Proba – Druckdaten-Prüfung",
+            "en-GB": "Proba – Artwork check"
+        },
+        "description": {
+            "de-DE": "(in Entwicklung) Druckdaten-Upload, automatische Prüfung (Preflight), Korrekturabzug und Kundenfreigabe.",
+            "en-GB": "(in development) Artwork upload, automatic preflight, proof and customer approval."
+        },
+        "manufacturerLink": {
+            "de-DE": "https://www.lohndruckerei.eu",
+            "en-GB": "https://www.lohndruckerei.eu"
+        }
+    }
+}
