@@ -65,9 +65,13 @@ Upload (Shop/Mail/Admin) → automatische Prüfung → ┬─ in Ordnung ──�
 1. Gerüst ✔ · 2. Upload je Position (Admin, dann Shop) · 3. automatische Prüfung + Bericht ·
 4. Arbeitsplatz Datenprüfung + Fehlermeldungen · 5. Korrekturabzug + Freigabe-Link · 6. Archiv extern.
 
-## 6. Offene Fragen
+## 6. Entscheidungen (Details: `sw6-ordo/docs/KONZEPT.md` Abschnitt 11)
 
-- Welche Dateiformate werden angenommen (nur PDF oder auch AI/EPS/TIFF/JPG/PNG)? Maximale Größe?
-- Gibt es einen kostenpflichtigen „Profi-Datencheck“ bzw. Korrekturabzug als Option im Konfigurator?
-- Frist für neue Daten und Freigabe, Erinnerungen (Ordo E7).
-- Erstellt die Datenprüfung Druckdaten selbst (Gestaltungsservice, Korrektur durch uns)?
+- Prüfwerkzeug: Open Source zuerst, manuelle Prüfung und Freigabe immer möglich; `PreflightEngineInterface`
+  so schneiden, dass callas pdfToolbox später eingesetzt werden kann (E3).
+- Formate: PDF bevorzugt, zusätzlich JPG/PNG/TIFF (E15). Maximale Dateigröße: bei der Umsetzung festlegen.
+- Korrekturabzug: auf Kundenwunsch oder wenn die Datenprüfung es verlangt (E11).
+- Fristen: Erinnerungen nach 2 und 5 Werktagen, kein automatisches Storno (E7).
+- Archiv: Netzlaufwerk wie heute (E4).
+
+Offen: Gestaltungs-/Korrekturservice durch die Lohndruckerei (kostenpflichtige Option?).
