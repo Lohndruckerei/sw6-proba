@@ -1,6 +1,6 @@
 {
   "ld-admin-design/component/chip/index.js": {
-    "file": "assets/index-CtfJN7lu.js",
+    "file": "assets/index-0BQmtCA_.js",
     "name": "index",
     "src": "ld-admin-design/component/chip/index.js",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "ld-admin-design/component/design-switch/index.js": {
-    "file": "assets/index-BVoL8Tbg.js",
+    "file": "assets/index-lHvsesdt.js",
     "name": "index",
     "src": "ld-admin-design/component/design-switch/index.js",
     "isDynamicEntry": true,
@@ -18,7 +18,7 @@
     ]
   },
   "ld-admin-design/component/status/index.js": {
-    "file": "assets/index-BWz27qr-.js",
+    "file": "assets/index-GTH8Z0C7.js",
     "name": "index",
     "src": "ld-admin-design/component/status/index.js",
     "isDynamicEntry": true,
@@ -33,7 +33,7 @@
     "isDynamicEntry": true
   },
   "ld-admin-design/component/transport-chip/index.js": {
-    "file": "assets/index-qKsixdgV.js",
+    "file": "assets/index-BjLjmHte.js",
     "name": "index",
     "src": "ld-admin-design/component/transport-chip/index.js",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     ]
   },
   "main.js": {
-    "file": "assets/ld-proba-hE4qC3CW.js",
+    "file": "assets/ld-proba-AUqwTkp-.js",
     "name": "ld-proba",
     "src": "main.js",
     "isEntry": true,
@@ -54,7 +54,7 @@
       "ld-admin-design/component/tabs/index.js"
     ],
     "css": [
-      "assets/ld-proba-CUsnsUgb.css"
+      "assets/ld-proba-B2gWmy_W.css"
     ]
   }
 }

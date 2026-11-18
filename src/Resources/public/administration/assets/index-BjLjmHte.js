@@ -1,4 +1,4 @@
-import{T as r}from"./ld-proba-hE4qC3CW.js";const o={template:`
+import{T as r}from"./ld-proba-AUqwTkp-.js";const o={template:`
 <lp-chip
     :label="label"
     :color="config.color"

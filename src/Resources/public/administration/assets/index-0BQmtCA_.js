@@ -1,4 +1,4 @@
-import{C as l}from"./ld-proba-hE4qC3CW.js";const i={template:`
+import{C as l}from"./ld-proba-AUqwTkp-.js";const i={template:`
 <span
     class="lp-chip"
     :style="{ '--lp-t': 'var(--lp-' + color + ')' }"

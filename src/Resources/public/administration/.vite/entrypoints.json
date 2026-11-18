@@ -3,17 +3,17 @@
   "entryPoints": {
     "ld-proba": {
       "css": [
-        "/bundles/ldproba/administration/assets/ld-proba-CUsnsUgb.css"
+        "/bundles/ldproba/administration/assets/ld-proba-B2gWmy_W.css"
       ],
       "dynamic": [
-        "/bundles/ldproba/administration/assets/index-BVoL8Tbg.js",
-        "/bundles/ldproba/administration/assets/index-BWz27qr-.js",
-        "/bundles/ldproba/administration/assets/index-CtfJN7lu.js",
-        "/bundles/ldproba/administration/assets/index-qKsixdgV.js",
+        "/bundles/ldproba/administration/assets/index-lHvsesdt.js",
+        "/bundles/ldproba/administration/assets/index-GTH8Z0C7.js",
+        "/bundles/ldproba/administration/assets/index-0BQmtCA_.js",
+        "/bundles/ldproba/administration/assets/index-BjLjmHte.js",
         "/bundles/ldproba/administration/assets/index-C5L-ohF6.js"
       ],
       "js": [
-        "/bundles/ldproba/administration/assets/ld-proba-hE4qC3CW.js"
+        "/bundles/ldproba/administration/assets/ld-proba-AUqwTkp-.js"
       ],
       "legacy": false,
       "preload": []

@@ -1,4 +1,4 @@
-import{S as s,a}from"./ld-proba-hE4qC3CW.js";const p={template:`
+import{S as s,a}from"./ld-proba-AUqwTkp-.js";const p={template:`
 <span
     class="lp-status"
     :class="'lp-status--' + state"
